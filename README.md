@@ -1,6 +1,6 @@
 # TE_servlet
 
-Practica N° 1  Emergentes II     Univ.- Ivan Nina Amaru       
+Practica N° 1  Emergentes II        
 
 Univ.- Ivan Nina Amaru
 
